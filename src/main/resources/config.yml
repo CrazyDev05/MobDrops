@@ -1,0 +1,4 @@
+modifiers:
+  WITHER_SKELETON:
+    - chance: 0.1
+      material: WITHER_SKELETON_SKULL

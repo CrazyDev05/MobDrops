@@ -1,0 +1,5 @@
+name: MobDrops
+version: '1.0.0'
+main: de.crazydev22.drops.MobDrops
+api-version: '1.21'
+authors: [ CrazyDev22 ]
